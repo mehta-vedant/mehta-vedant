@@ -11,10 +11,6 @@
 <a href="https://codeforces.com/profile/Coderved63"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
 <a href="mailto:mehtavedant63@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=mehta-vedant&label=PROFILE+VIEWS&color=7aa2f7&style=flat-square" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/mehta-vedant?label=Followers&style=flat-square&color=bb9af7" alt="Followers"/>
 
 </div>
 
@@ -164,11 +160,6 @@ Intelligent document automation for research manuscript formatting and journal c
 
 ### LeetCode
 <a href="https://leetcode.com/u/coderved63/"><img width="75%" src="https://leetcard.jacoblin.cool/coderved63?theme=dark&font=Fira%20Code&ext=contest&radius=12" alt="LeetCode statistics"/></a>
-
-### Codeforces
-<a href="https://codeforces.com/profile/Coderved63"><img width="75%" src="https://codeforces-stats-vlx.vercel.app/api/card?username=Coderved63" alt="Codeforces statistics"/></a>
-<br/><br/>
-<a href="https://codeforces.com/profile/Coderved63"><img width="75%" src="https://codeforces-stats-vlx.vercel.app/api/graph?username=Coderved63" alt="Codeforces rating graph"/></a>
 
 </div>
 
