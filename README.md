@@ -148,22 +148,6 @@ Intelligent document automation for research manuscript formatting and journal c
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehta-vedant&theme=tokyonight" alt="GitHub contribution summary"/>
-<br/><br/>
-<a href="https://github.com/mehta-vedant"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=mehta-vedant&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/></a>
-<a href="https://github.com/mehta-vedant"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehta-vedant&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/></a>
-<br/><br/>
-<img width="75%" src="https://streak-stats.demolab.com/?user=mehta-vedant&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-### Contribution Activity
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehta-vedant&bg_color=1a1b26&color=c0caf5&line=7aa2f7&point=bb9af7&area=true&hide_border=true" alt="GitHub activity graph"/>
-</div>
-
----
-
 ## ⚔️ Competitive Programming
 
 <div align="center">
