@@ -173,7 +173,7 @@ Intelligent document automation for research manuscript formatting and journal c
 | 🛰️ AETRIX Hackathon 2026 — PDEU | 🥉 Second Runner-up |
 | 🏎️ SVNIT MindBend — Autonomous Maze Solver | 🥇 First Position |
 | 🤖 RoboFest 5.0 | Top 25 among 600+ participating teams |
-| 🎓 Nirma University | Category III Scholarship |
+| 🎓 HackerRank Orchestrate August '26| Silver Medalist (#67/1983) |
 
 ---
 
