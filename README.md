@@ -12,6 +12,10 @@
 <a href="mailto:mehtavedant63@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 
+<br/><br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/mehta-vedant/mehta-vedant/main/assets/command-center.svg" alt="Developer command center"/>
+
 </div>
 
 ---
@@ -34,6 +38,10 @@ I'm a Computer Science undergraduate building intelligent applications that comb
 - 🧠 Exploring LLMs, NLP, RAG, and agentic workflows
 - 💻 Interested in scalable full-stack applications
 - 🏆 Hackathon enthusiast and competitive programmer
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mehta-vedant&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub profile trophies"/>
+</div>
 
 ---
 
@@ -143,6 +151,8 @@ Intelligent document automation for research manuscript formatting and journal c
 ## 📊 GitHub Analytics
 
 <div align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehta-vedant&theme=tokyonight" alt="GitHub contribution summary"/>
+<br/><br/>
 <a href="https://github.com/mehta-vedant"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=mehta-vedant&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/></a>
 <a href="https://github.com/mehta-vedant"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehta-vedant&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/></a>
 <br/><br/>
