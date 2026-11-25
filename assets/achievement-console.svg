@@ -1,0 +1,51 @@
+<svg width="900" height="160" viewBox="0 0 900 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Achievement console</title>
+  <desc id="desc">A neon display of Vedant Mehta's technical competition achievements</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="900" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101427"/>
+      <stop offset="1" stop-color="#1A1530"/>
+    </linearGradient>
+    <linearGradient id="line" x1="30" y1="0" x2="870" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DCFFF"/>
+      <stop offset=".5" stop-color="#BB9AF7"/>
+      <stop offset="1" stop-color="#9ECE6A"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="160" rx="14" fill="url(#panel)"/>
+  <rect x=".5" y=".5" width="899" height="159" rx="13.5" stroke="#7AA2F7" stroke-opacity=".45"/>
+  <text x="34" y="38" fill="#C0CAF5" font-family="monospace" font-size="15" font-weight="700" letter-spacing="2">ACHIEVEMENT CONSOLE</text>
+  <path d="M34 52H866" stroke="url(#line)" stroke-width="1.5"/>
+  <g font-family="monospace">
+    <g transform="translate(34 75)">
+      <rect width="154" height="56" rx="8" fill="#1A1B36" stroke="#FF9E64" stroke-opacity=".8"/>
+      <text x="13" y="22" fill="#FF9E64" font-size="17">🥈</text>
+      <text x="39" y="20" fill="#C0CAF5" font-size="10">HACKNUMINED</text>
+      <text x="13" y="42" fill="#A9B1D6" font-size="9">PAPERPAL · RUNNER-UP</text>
+    </g>
+    <g transform="translate(202 75)">
+      <rect width="154" height="56" rx="8" fill="#1A1B36" stroke="#BB9AF7" stroke-opacity=".8"/>
+      <text x="13" y="22" fill="#BB9AF7" font-size="17">🥉</text>
+      <text x="39" y="20" fill="#C0CAF5" font-size="10">AETRIX</text>
+      <text x="13" y="42" fill="#A9B1D6" font-size="9">PDEU · RUNNER-UP</text>
+    </g>
+    <g transform="translate(370 75)">
+      <rect width="154" height="56" rx="8" fill="#1A1B36" stroke="#9ECE6A" stroke-opacity=".8"/>
+      <text x="13" y="22" fill="#9ECE6A" font-size="17">🥇</text>
+      <text x="39" y="20" fill="#C0CAF5" font-size="10">MINDBEND</text>
+      <text x="13" y="42" fill="#A9B1D6" font-size="9">SVNIT · FIRST PLACE</text>
+    </g>
+    <g transform="translate(538 75)">
+      <rect width="154" height="56" rx="8" fill="#1A1B36" stroke="#7DCFFF" stroke-opacity=".8"/>
+      <text x="13" y="22" fill="#7DCFFF" font-size="17">◈</text>
+      <text x="39" y="20" fill="#C0CAF5" font-size="10">ROBOFEST 5.0</text>
+      <text x="13" y="42" fill="#A9B1D6" font-size="9">TOP 25 · 600+ TEAMS</text>
+    </g>
+    <g transform="translate(706 75)">
+      <rect width="160" height="56" rx="8" fill="#1A1B36" stroke="#7AA2F7" stroke-opacity=".8"/>
+      <text x="13" y="22" fill="#7AA2F7" font-size="17">◆</text>
+      <text x="39" y="20" fill="#C0CAF5" font-size="10">HACKERRANK</text>
+      <text x="13" y="42" fill="#A9B1D6" font-size="9">SILVER · #67 / 1983</text>
+    </g>
+  </g>
+</svg>

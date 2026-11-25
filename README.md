@@ -40,7 +40,7 @@ I'm a Computer Science undergraduate building intelligent applications that comb
 - 🏆 Hackathon enthusiast and competitive programmer
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mehta-vedant&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub profile trophies"/>
+<img width="100%" src="https://raw.githubusercontent.com/mehta-vedant/mehta-vedant/main/assets/achievement-console.svg" alt="Achievement console"/>
 </div>
 
 ---
